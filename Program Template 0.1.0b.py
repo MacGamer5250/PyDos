@@ -1,3 +1,4 @@
+#PyDos 0.1.0b Program Template
 print("Hello World!")
 print("To exit type exit.")
 print("Type Hello or Test!")
