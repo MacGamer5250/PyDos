@@ -37,5 +37,4 @@ for i in range(2147000000):
             current_time = now.strftime("%H:%M:%S")
             print("Current Time =", current_time)
             x = input("#")
-    
-   
+            #Hi, Developers!
