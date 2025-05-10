@@ -1,4 +1,4 @@
-print("Welcome to CommandCalc!")
+print("Welcome to CommandCalc for PyDos!")
 print("MacGamer5250-2025 \n VERSION: BETA 1.0 \n Type exit to exit.")
 print("      ")
 for i in range(100000):
