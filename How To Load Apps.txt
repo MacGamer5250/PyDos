@@ -1,3 +1,3 @@
 How to Load Apps
 
-To load apps into PyDos move a Python script into this folder. Once app in folder launch PyDos. Then, run the exec command type in your program (For Example: test.py). The program should load.
+To load apps into PyDos move a Python script into this folder. Once app in folder launch PyDos. Then, run the exec command, Type in your program (For Example: test.py). The program should load.
